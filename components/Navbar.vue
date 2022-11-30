@@ -29,7 +29,7 @@
               </li>
 
               <li class="li-navbar">
-                <a class="a-navbar" href="https://frscodes.github.io/portfolio/">My portfolio</a>
+                <a class="a-navbar" href="https://frs99.github.io/portfolio-old/">My portfolio</a>
               </li>
             </ul>
           </nav>
