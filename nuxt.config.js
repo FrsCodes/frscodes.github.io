@@ -36,12 +36,12 @@ export default {
       { property:'twitter:image', content:'assets/img/meta.jpg'},
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'icon', type: 'image/x-icon', href: 'favicon.ico' },
       { rel:'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Indie+Flower&family=Nunito:wght@200;300;400;600;700;800;900&display=swap' }
     ],
     script: [
-      { src: '/assets/js/main.js', async: true, defer: true },
-      { src: '/assets/js/icon.js', async: true, defer: true },
+      { src: 'assets/js/main.js', async: true, defer: true },
+      { src: 'assets/js/icon.js', async: true, defer: true },
     ]
   },
 
